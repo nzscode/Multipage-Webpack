@@ -1,0 +1,1 @@
+(()=>{let e=document.querySelector("body"),t=document.createElement("h1"),n=document.createElement("a");n.setAttribute("href","./page1.html"),n.textContent="page1",t.appendChild(n),e.appendChild(t)})();
